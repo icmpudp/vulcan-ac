@@ -105,7 +105,7 @@ function zapsupdatee()
 end
 
 AddEventHandler('onResourceStart', function(resource)
-    if resource == GetCurrentResourceName() then
+            if resource == 'vulcan-ac'  then
         zapsupdatee()
             print(" 🐧 [Vulcan AC] Make sure to run vac:install from the console to setup event tampering")
     end
