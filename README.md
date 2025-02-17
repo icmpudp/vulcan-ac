@@ -3,7 +3,7 @@
 ![Vulcan-AC Logo](https://github.com/ScrachStack/vulcan-ac/assets/122732007/df9c48ff-c6b7-4d0a-90ca-f7f7ab6719f1)
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T01APGOO)
 ## Usage
 
 To get started with Vulcan-AC, follow these simple steps:
